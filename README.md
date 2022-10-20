@@ -1,5 +1,5 @@
 ### Hello there!! 👋
-🚀 - Web Developer FullStack
+🚀 - Web 3.0 Developer
 <br>
 Javascript
 <br>
